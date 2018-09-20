@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1537404972 source:/home/alumno/Agazzi/Prog-Labo-I/19-9/project_19-9/main.c
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"Producto.h"
+	"Producto.c"
+
+1537404613 /home/alumno/Agazzi/Prog-Labo-I/19-9/project_19-9/Producto.h
+
+1537404976 /home/alumno/Agazzi/Prog-Labo-I/19-9/project_19-9/Producto.c
+	<stdio.h>
+	<stdlib.h>
+
